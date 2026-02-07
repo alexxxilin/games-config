@@ -1,0 +1,15 @@
+{
+  "telegram_url": "https://t.me/your_channel",
+  "games": [
+    {
+      "title": "Полёт в космос! [ЛУНА]",
+      "icon_url": "https://i.imgur.com/example1.png",
+      "game_url": "https://yandex.ru/games/app/123456"
+    },
+    {
+      "title": "Вторая игра",
+      "icon_url": "https://i.imgur.com/example2.png",
+      "game_url": "https://yandex.ru/games/app/789012"
+    }
+  ]
+}
