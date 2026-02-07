@@ -1,15 +1,23 @@
 {
-  "telegram_url": "https://t.me/your_channel",
+  "telegram_url": "https://t.me/max_games_channel",
   "games": [
     {
-      "title": "Полёт в космос! [ЛУНА]",
-      "icon_url": "https://i.imgur.com/example1.png",
-      "game_url": "https://yandex.ru/games/app/123456"
+      "id": "rb1",
+      "title": "Полёт в космос!",
+      "icon_url": "https://raw.githubusercontent.com/alexxxilin/games-config/main/rb2.png",
+      "game_url": "https://yandex.ru/games/app/poliot-v-kosmos-480488"
     },
     {
-      "title": "Вторая игра",
-      "icon_url": "https://i.imgur.com/example2.png",
-      "game_url": "https://yandex.ru/games/app/789012"
+      "id": "rb2",
+      "title": "Строитель башен",
+      "icon_url": "https://i.imgur.com/tower456.png",
+      "game_url": "https://yandex.ru/games/app/234567"
+    },
+    {
+      "id": "slide_game",
+      "title": "🎢 Водные горки",
+      "icon_url": "https://i.imgur.com/slide789.png",
+      "game_url": "https://yandex.ru/games/app/345678"
     }
   ]
 }
