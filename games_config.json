@@ -1,16 +1,18 @@
 {
-  "telegram_url": "https://t.me/max_games_channel",
+  "telegram_url": "https://t.me/your_channel",
   "games": [
     {
-      "id": "rb1",
-      "title": "Полёт в космос!",
-      "icon_url": "https://raw.githubusercontent.com/alexxxilin/games-config/main/rb1.png",
-      "game_url": "https://yandex.ru/games/app/poliot-v-kosmos-480488"
+      "id": "moon_game",
+      "title_ru": "🚀 Полёт в космос! [ЛУНА]",
+      "title_en": "🚀 Space Flight! [MOON]",
+      "icon_url": "https://i.imgur.com/rocket123.png",
+      "game_url": "https://yandex.ru/games/app/123456"
     },
     {
-      "id": "rb2",
-      "title": "Обби: Залезь на Маяк!",
-      "icon_url": "https://raw.githubusercontent.com/alexxxilin/games-config/main/rb2.png",
+      "id": "tower_game",
+      "title_ru": "🧱 Строитель башен",
+      "title_en": "🧱 Tower Builder",
+      "icon_url": "https://i.imgur.com/tower456.png",
       "game_url": "https://yandex.ru/games/app/234567"
     }
   ]
