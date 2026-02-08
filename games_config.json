@@ -1,18 +1,18 @@
 {
-  "telegram_url": "https://t.me/your_channel",
+  "telegram_url": "https://t.me/RedFleetGames",
   "games": [
     {
-      "id": "moon_game",
-      "title_ru": "🚀 Полёт в космос! [ЛУНА]",
-      "title_en": "🚀 Space Flight! [MOON]",
-      "icon_url": "https://i.imgur.com/rocket123.png",
-      "game_url": "https://yandex.ru/games/app/123456"
+      "id": "rb1",
+      "title_ru": "Полёт в космос!",
+      "title_en": "Fly to space!",
+      "icon_url": "https://raw.githubusercontent.com/alexxxilin/games-config/main/rb1.png",
+      "game_url": "https://yandex.ru/games/app/poliot-v-kosmos-480488"
     },
     {
-      "id": "tower_game",
-      "title_ru": "🧱 Строитель башен",
-      "title_en": "🧱 Tower Builder",
-      "icon_url": "https://i.imgur.com/tower456.png",
+      "id": "rb2",
+      "title_ru": "Обби: Залезь на Маяк!",
+      "title_en": "Obby: Climb the Lighthouse!",
+      "icon_url": "raw.githubusercontent.com/alexxxilin/games-config/main/rb2.png",
       "game_url": "https://yandex.ru/games/app/234567"
     }
   ]
