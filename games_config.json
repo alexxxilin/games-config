@@ -2,14 +2,14 @@
   "telegram_url": "https://t.me/RedFleetGames",
   "games": [
     {
-      "id": "moon_game",
+      "id": "rb1",
       "title_ru": "Полёт в космос!",
       "title_en": "Fly to space!",
       "icon_url": "https://raw.githubusercontent.com/alexxxilin/games-config/main/rb1.png",
       "yandex_game_id": "480488"
     },
     {
-      "id": "space_game",
+      "id": "rb2",
       "title_ru": "Обби: Залезь на Маяк!",
       "title_en": "Obby: Climb the Lighthouse!",
       "icon_url": "raw.githubusercontent.com/alexxxilin/games-config/main/rb2.png",
