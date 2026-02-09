@@ -3,8 +3,8 @@
   "games": [
     {
       "id": "rb1",
-      "title_ru": "Полёт в космос!",
-      "title_en": "Fly to space!",
+      "title_ru": "Fly to space!",
+      "title_en": "Полёт в космос!",
       "icon_url": "https://raw.githubusercontent.com/alexxxilin/games-config/main/rb1.png",
       "yandex_game_id": "480488"
     },
